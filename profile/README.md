@@ -15,6 +15,7 @@ Useful links:
 - [`Galactica Website`](https://galactica.com)
 - [`Our Research Notes`](https://galactica.com/research)
 - [`Galactica Developer Documentation`](https://docs.galactica.com/galactica-developer-documentation)
+- [`Validator Guide`](https://github.com/Galactica-corp/galactica/wiki)
 - [`Galactica Node`](https://github.com/Galactica-corp/galactica)
 
 
