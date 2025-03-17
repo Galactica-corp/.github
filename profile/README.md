@@ -13,6 +13,7 @@
 
 Useful links:
 - [`Galactica Website`](https://galactica.com)
+- [`Our Research Notes`](https://galactica.com/research)
 - [`Galactica Developer Documentation`](https://docs.galactica.com/galactica-developer-documentation)
 - [`Galactica Node`](https://github.com/Galactica-corp/galactica)
 
