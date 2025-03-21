@@ -30,13 +30,11 @@ Galactica L1:
 - [`Devnet params and links`](https://docs.galactica.com/galactica-developer-documentation/devnet-andromeda)
 
 Galactica ZK:
-- [`ZK Monorepo`](https://github.com/Galactica-corp/galactica-monorepo) - Galactica Network monorepo including zero-knowledge certificates, the Galactica ZK Vault Snap for Metamask and front-end examples.
-- [`Merkle proof indexer`](https://github.com/Galactica-corp/merkle-proof-service) - service, helping clients to generate zkProofs by indexing merkle trees and providing latest merkle proofs.
-- [`Guardian SDK`](https://github.com/Galactica-corp/guardians-sdk) - our SDK for zkKYC and Data Guardians, allowing to issue and manage issued  ZK Certificates.
-  
+- [`ZK Monorepo`](https://github.com/Galactica-corp/galactica-monorepo) - our monorepo including ZK Certificates, ZK Vault Snap for Metamask and frontend examples
+- [`Merkle proof indexer`](https://github.com/Galactica-corp/merkle-proof-service) - service, providing latest merkle proofs to clients
+- [`Guardian SDK`](https://github.com/Galactica-corp/guardians-sdk) - our SDK for Guardians, allowing to issue and manage issued  ZK Certificates
 - [`KYC Guardian backend`](https://github.com/Galactica-corp/galactica-kyc-provider) - Sample zkKYC Guardian backend
 - [`KYC Guardian frontend`](https://github.com/Galactica-corp/galactica-provider-fe) - Sample zkKYC Guardian frontend
-
 - [`KYC Guardian backend`](https://github.com/Galactica-corp/swissborg-kyc-provider) - Swissborg zkKYC Guardian backend
 - [`KYC Guardian frontend`](https://github.com/Galactica-corp/galactica-provider-fe) - Swissborg zkKYC Guardian frontend
 
