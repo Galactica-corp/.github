@@ -38,8 +38,8 @@ Galactica ZK:
 - [`Guardian SDK`](https://github.com/Galactica-corp/guardians-sdk) - our SDK for Guardians, allowing to issue and manage issued  ZK Certificates
 - [`KYC Guardian backend`](https://github.com/Galactica-corp/galactica-kyc-provider) - Sample zkKYC Guardian backend
 - [`KYC Guardian frontend`](https://github.com/Galactica-corp/galactica-provider-fe) - Sample zkKYC Guardian frontend
-- [`KYC Guardian backend`](https://github.com/Galactica-corp/swissborg-kyc-provider) - Swissborg zkKYC Guardian backend
-- [`KYC Guardian frontend`](https://github.com/Galactica-corp/galactica-provider-fe) - Swissborg zkKYC Guardian frontend
+- [`Swissborg KYC Guardian backend`](https://github.com/Galactica-corp/swissborg-kyc-provider)
+- [`Swissborg KYC Guardian frontend`](https://github.com/Galactica-corp/galactica-provider-fe)
 
 Cypherbook:
 - [`Cypherbook app`](https://github.com/Galactica-corp/galactica-fe-v2) - our dApp (Cypherbook). Available at [`app.galactica.com`](https://app.galactica.com/)
