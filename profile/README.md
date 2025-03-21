@@ -9,13 +9,42 @@
   />
 </h3>
 
-Galactica.com is Web3's ultimate ZK-powered Identity Layer. Our protocol stack enables concepts far beyond Proofs of Humanity - robust reputation and private data use-cases from DeSoc to user-centric dApp design. It eliminates the gap between off-chain and on-chain identities.
+Galactica is a blockchain infrastructure platform bridging real-world assets (RWAs) and decentralized finance through zero-knowledge KYC solutions. Built to maintain Web3 ethos while enabling RegTech applications, it provides a privacy-preserving compliance layer for RWA integration. 
+
+Galactica.com's IVM (Identity Virtual Machine) leverages the latest advances in applied cryptography, such as mentioned above zero-knowledge (ZK) proofs and fully homomorphic encryption (FHE). This protects user privacy and ensures smooth verification, turning into a powerful tool in managing digital identities.
+
+Partnering with regulated entities like SwissBorg and Hilbert Capital, Galactica facilitates compliant tokenization that exposes traditional assets to blockchain capabilities while preserving regulatory compliance.
+
+By enabling both TradFi investors and Web3 users to access RWAs in private and compliant manner, Galactica accelerates the convergence of TradFi & DeFi.
 
 Useful links:
 - [`Galactica Website`](https://galactica.com)
-- [`Our Research Notes`](https://galactica.com/research)
 - [`Galactica Developer Documentation`](https://docs.galactica.com/galactica-developer-documentation)
 - [`Validator Guide`](https://github.com/Galactica-corp/galactica/wiki)
+- [`Developer portal`](https://galactica.com/developers)
+
+Galactica L1:
 - [`Galactica Node`](https://github.com/Galactica-corp/galactica)
+- [`Networks Registry`](https://github.com/Galactica-corp/networks)
+- [`Testnet params and links`](https://docs.galactica.com/galactica-developer-documentation/testnet-reticulum)
+- [`Devnet params and links`](https://docs.galactica.com/galactica-developer-documentation/devnet-andromeda)
+
+Galactica ZK:
+- [`ZK Monorepo`](https://github.com/Galactica-corp/galactica-monorepo) - Galactica Network monorepo including zero-knowledge certificates, the Galactica ZK Vault Snap for Metamask and front-end examples.
+- [`Merkle proof indexer`](https://github.com/Galactica-corp/merkle-proof-service) - service, helping clients to generate zkProofs by indexing merkle trees and providing latest merkle proofs.
+- [`Guardian SDK`](https://github.com/Galactica-corp/guardians-sdk) - our SDK for zkKYC and Data Guardians, allowing to issue and manage issued  ZK Certificates.
+  
+- [`KYC Guardian backend`](https://github.com/Galactica-corp/galactica-kyc-provider) - Sample zkKYC Guardian backend
+- [`KYC Guardian frontend`](https://github.com/Galactica-corp/galactica-provider-fe) - Sample zkKYC Guardian frontend
+
+- [`KYC Guardian backend`](https://github.com/Galactica-corp/swissborg-kyc-provider) - Swissborg zkKYC Guardian backend
+- [`KYC Guardian frontend`](https://github.com/Galactica-corp/galactica-provider-fe) - Swissborg zkKYC Guardian frontend
+
+Cypherbook:
+- [`Cypherbook app`](https://github.com/Galactica-corp/galactica-fe-v2) - our dApp (Cypherbook). Available at [`app.galactica.com`](https://app.galactica.com/)
+- [`SBT Indexer`](https://github.com/Galactica-corp/sbt-indexer) - auxilary backend for indexing SBTs and NFTs on users addresses
+- [`UBI calculator`](https://github.com/Galactica-corp/ubi-board) - backend calculating UBI score and rewards for users based on Soul Matrix quests completion
 
 
+### Learn more
+- [`Our Research Notes`](https://galactica.com/research)
