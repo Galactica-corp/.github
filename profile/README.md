@@ -19,9 +19,12 @@ By enabling both TradFi investors and Web3 users to access RWAs in private and c
 
 Useful links:
 - [`Galactica Website`](https://galactica.com)
-- [`Galactica Developer Documentation`](https://docs.galactica.com/galactica-developer-documentation)
 - [`Validator Guide`](https://github.com/Galactica-corp/galactica/wiki)
+
+For devs:
 - [`Developer portal`](https://galactica.com/developers)
+- [`Galactica Developer Documentation`](https://docs.galactica.com/galactica-developer-documentation)
+- [`Building Galactica dApp`](https://docs.galactica.com/galactica-developer-documentation/building-a-galactica-dapp) - step by step instruction on building a dApp on Galactica
 
 Galactica L1:
 - [`Galactica Node`](https://github.com/Galactica-corp/galactica)
@@ -44,5 +47,8 @@ Cypherbook:
 - [`UBI calculator`](https://github.com/Galactica-corp/ubi-board) - backend calculating UBI score and rewards for users based on Soul Matrix quests completion
 
 
-### Learn more
+## Learn more
 - [`Our Research Notes`](https://galactica.com/research)
+- [`Deck`](https://galactica.com/deck.pdf)
+- [`White Paper`](https://galactica.com/research/galactica_white_paper.pdf)
+- AD matching with [`Concrete ML`](https://github.com/Galactica-corp/ad-matching-concrete-ml) and [`TFHE-rs`](https://github.com/Galactica-corp/ad-matching-tfhers) (by Zama) - our latest experiments with building FHE-powered AD matching engine using encrypted user data
